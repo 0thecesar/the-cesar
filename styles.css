@@ -1,0 +1,46 @@
+       body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #d8d0d0;
+            color: #353131;
+            text-align: center;
+        }
+        #h1, #h2 {
+            color: #1d1b1b;
+        }
+        img {
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        ul, ol {
+            margin: 10px 0;
+        }
+        #table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            text-indent: 0%;
+            text-align: center;
+        }
+        #th, #td {
+            padding: 8px;
+            border: 1px solid #635151;
+            text-align: center;
+        }
+        th {
+            background-color: #856565;
+        }
+        form {
+            margin-top: 20px;
+        }
+        label, input, button {
+            display: block;
+            margin: 10px 0;
+        }
+        input[type="text"], input[type="email"] {
+            width: 100%;
+            padding: 8px;
+            margin: 5px 0;
+        }
+        
+
